@@ -1,0 +1,3 @@
+package { 'tuned':
+    ensure => 'absent'
+}

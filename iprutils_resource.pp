@@ -1,0 +1,3 @@
+package { 'iprutils':
+    ensure => 'absent'
+}
